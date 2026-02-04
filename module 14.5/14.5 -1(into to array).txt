@@ -1,0 +1,2 @@
+how are we showing array ---->
+const arr = [f.f.f.f.f.f.f,f,f,f,f] 
