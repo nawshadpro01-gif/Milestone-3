@@ -1,3 +1,25 @@
 to get length of an array ----> console.log(var.length)
 
-index -----> 
+index -----> const numbers = [ 99, 88, 77, 100]
+             console.log(numbers[3])
+
+
+
+
+
+console.log(var.includes()) ----> to check that the element is inside the array or not
+
+
+console.log(var.indexOf(...)) ----> to find the index numbers. 
+
+conlsole.log(Array.isArray(var)) --- > to check that the given vart is array or not 
+
+important methods -----------------------------------------------------------------------------------------------
+
+1. includes()
+2. indexOf()
+3. isArray()
+4. join()
+5. concat() ----> adds two arrays into one. 
+6. slice() -----> devides a part of the array -----> numbers.slice(2,4)
+7. splice() --- not needed now 
