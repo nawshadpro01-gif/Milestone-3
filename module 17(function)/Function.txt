@@ -1,0 +1,8 @@
+function fanOff(){
+    // defining a function........
+
+}
+
+
+fanOff();
+
