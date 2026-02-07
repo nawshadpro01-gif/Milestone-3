@@ -12,3 +12,19 @@ console.log (school.toLocaleLowerCase()) -------> used for making ebery leter of
 .slice(start index ,end index) ------> for slicing string 
 .split(" ") -------> to split a sentence 
 .concat( ) -------> to add two strings 
+
+
+. reverse() , .split(), .join(" ") 
+
+
+
+
+
+.(dot notation) ----> 
+[] ( braket notation ) ----> 
+
+
+
+
+# loop for of ------> is for array 
+# loop for in ------> is for object 
