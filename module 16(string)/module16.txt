@@ -1,0 +1,14 @@
+about string 
+
+String in immutable. 
+
+console.log (school.toLocaleLowerCase()) -------> used for making ebery leter ofa string to lower case 
+
+
+.trim() ------> for empty space 
+
+
+
+.slice(start index ,end index) ------> for slicing string 
+.split(" ") -------> to split a sentence 
+.concat( ) -------> to add two strings 
